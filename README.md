@@ -8,4 +8,4 @@ Install all the dependencides and run `npm start` to start up the live-server.
 
 ## Linter
 
-Install StyleLint integration for your code editor. [Click here](https://stylelint.io/user-guide/integrations/editor/) for a list of all available integration.
+Install StyleLint integration for your code editor. [Click here](https://stylelint.io/user-guide/integrations/editor/) for a list of all available integration. You can also run a test to check for any errors using `npm run test`.

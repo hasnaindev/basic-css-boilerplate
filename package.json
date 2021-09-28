@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server src"
+    "start": "live-server src",
+    "test": "npx stylelint \"src/css/**/*.css\""
   },
   "keywords": [],
   "author": "",
